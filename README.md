@@ -24,6 +24,6 @@ function verificaForcaSenha()
 
 ## Como usar o código
 
-Você pode ver uma descrição detalhada de como utilizar este código em seus formulários HTML lendo este artigo do Blogso - 
+Você pode ver uma descrição detalhada de como utilizar este código em seus formulários HTML lendo este artigo do Blogson - 
  [Como Medir a Força de uma Senha com JavaScript / jQuery](https://www.blogson.com.br/como-medir-a-forca-de-uma-senha-com-javascript-jquery/)
 
